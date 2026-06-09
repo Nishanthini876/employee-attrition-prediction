@@ -119,13 +119,13 @@ employee-attrition-prediction/
 ├── Dataset/
 │   └── HRDataset_filled.xlsx
 │
-├── Notebook/
+├── ML/
 │   └── Employee_Attrition_Prediction.ipynb
 │
 ├── PowerBI/
 │   └── Employee_Attrition_Dashboard.pbix
 │
-├── PPT/
+├── ppt/
 │   └── TalentHack2K26_Presentation.pptx
 │
 ├── Images/
